@@ -5,7 +5,7 @@ title: Wyatt Morriss
 tagline: Graphic Designer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Know More
   ctaLink: /about
 ---
 
